@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Tania Guedes
 
-<!--
-**TaniaBmGuedes/TaniaBmGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** with a background in Informatics Engineering.  
+I enjoy building clean, functional, and well-structured applications — especially for the web. ✨
 
-Here are some ideas to get you started:
+- 💻 Full-stack & front-end development  
+- 🤖 Growing interest in **AI, Machine Learning & automation**  
+- 🛠 Tools & technologies: JavaScript, TypeScript, HTML, CSS, React, Next.js  
+- 📚 Always learning and exploring new stacks, patterns, and modern development practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Exploring AI & Machine Learning
+
+Although I’m still at the beginning of my journey with **Artificial Intelligence**, I’m actively studying and experimenting with:
+
+- 🧬 Neural networks & deep learning fundamentals  
+- 📊 Data preprocessing and model evaluation  
+- 🧠 LLMs (Large Language Models) and modern AI tools  
+- 🚀 Applying AI to personal projects and experiments  
+
+No dedicated ML/AI projects yet — but they are coming soon!  
+I'm currently preparing small experiments and prototypes that will eventually turn into real projects. 🔥
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my public projects:
+
+### ⏳ Chronos-Promodoro  
+A simple productivity tool designed to help maintain focus and manage time effectively.
+
+### 📝 Blog  
+A personal blog project built to share ideas, experiences, and technical knowledge.
+
+---
+
+## 🎯 What I'm Currently Focusing On
+
+- 🚀 Improving my full-stack and UI/UX skills  
+- 🏗 Learning more about modern application architecture  
+- 🤖 Studying Artificial Intelligence & Machine Learning  
+- 🔧 Building useful tools and personal projects  
+- 🤝 Contributing to open-source and collaborating with other developers  
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out — I’m always open to learning, collaborating, and connecting with other developers. 🌍
+
+🔗 **LinkedIn:**  
+👉 [linkedin.com/in/taniabmguedes](https://www.linkedin.com/in/t%C3%A2nia-guedes-6b296b208/)
+
+---
+
+## 📊 GitHub Stats
+
+![TaniaBmGuedes GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaBmGuedes&theme=dracula&show_icons=true&hide_border=true)
+
+---
+
