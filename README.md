@@ -3,10 +3,10 @@
 I'm a passionate **Software Developer** with a background in Informatics Engineering.  
 I enjoy building clean, functional, and well-structured applications — especially for the web. ✨
 
-- 💻 Full-stack & front-end development  
-- 🤖 Growing interest in **AI, Machine Learning & automation**  
-- 🛠 Tools & technologies: JavaScript, TypeScript, HTML, CSS, React, Next.js  
-- 📚 Always learning and exploring new stacks, patterns, and modern development practices  
+- Full-stack & front-end development  
+- Growing interest in **AI, Machine Learning & automation**  
+- Tools & technologies: JavaScript, TypeScript, HTML, CSS, React, Next.js  
+- Always learning and exploring new stacks, patterns, and modern development practices  
 
 ---
 
@@ -14,10 +14,10 @@ I enjoy building clean, functional, and well-structured applications — especia
 
 Although I’m still at the beginning of my journey with **Artificial Intelligence**, I’m actively studying and experimenting with:
 
-- 🧬 Neural networks & deep learning fundamentals  
-- 📊 Data preprocessing and model evaluation  
-- 🧠 LLMs (Large Language Models) and modern AI tools  
-- 🚀 Applying AI to personal projects and experiments  
+- Neural networks & deep learning fundamentals  
+- Data preprocessing and model evaluation  
+- LLMs (Large Language Models) and modern AI tools  
+- Applying AI to personal projects and experiments  
 
 No dedicated ML/AI projects yet — but they are coming soon!  
 I'm currently preparing small experiments and prototypes that will eventually turn into real projects. 🔥
@@ -38,17 +38,14 @@ A personal blog project built to share ideas, experiences, and technical knowled
 
 ## 🎯 What I'm Currently Focusing On
 
-- 🚀 Improving my full-stack and UI/UX skills  
-- 🏗 Learning more about modern application architecture  
-- 🤖 Studying Artificial Intelligence & Machine Learning  
-- 🔧 Building useful tools and personal projects  
-- 🤝 Contributing to open-source and collaborating with other developers  
+- Improving my full-stack and UI/UX skills  
+- Learning more about modern application architecture  
+- Studying Artificial Intelligence & Machine Learning  
+- Building useful tools and personal projects  
 
 ---
 
 ## 📬 Get in Touch
-
-Feel free to reach out — I’m always open to learning, collaborating, and connecting with other developers. 🌍
 
 🔗 **LinkedIn:**  
 👉 [linkedin.com/in/taniabmguedes](https://www.linkedin.com/in/t%C3%A2nia-guedes-6b296b208/)
