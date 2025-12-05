@@ -28,11 +28,18 @@ I'm currently preparing small experiments and prototypes that will eventually tu
 
 Here are some of my public projects:
 
-### ⏳ Chronos-Promodoro  
-A simple productivity tool designed to help maintain focus and manage time effectively.
+### ⏳ Chronos-Promodoro   
+**Technologies:**TypeScript, HTML, CSS
+A simple productivity tool designed to help maintain focus and manage time effectively using the Pomodoro technique.
 
 ### 📝 Blog  
-A personal blog project built to share ideas, experiences, and technical knowledge.
+**Technologies:** React, Next.js, TypeScript
+A personal blog built to share ideas, experiences, and technical knowledge, focusing on clean UI and modern web development practices.
+
+
+### 📝 Backend to my Blog Project  
+**Technologies:** TypeScript, NestJS, Node.js, REST API architecture
+This is the backend service for my Blog project. It provides a structured API built with NestJS.It handles core logic such as authentication, data management, and communication with the database.
 
 ---
 
